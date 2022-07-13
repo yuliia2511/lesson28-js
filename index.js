@@ -1,9 +1,9 @@
-let name = prompt('Ваше ім\'я?');
-alert('Привіт,' + name);
+let name = prompt('Ваше ім\'я?')
+alert('Привіт,' + name)
 
 let year = prompt('Ваш рік народження?')
-let age = (2022-year); 
-alert(`Ваш вік:` + age );
+let age = (2022-year) 
+alert(`Ваш вік:` + age )
 
 let WidthSide = prompt('Яка довжина сторони квадрату?')
 let perimeter = (WidthSide*4)
